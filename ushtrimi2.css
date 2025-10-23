@@ -1,0 +1,16 @@
+#div1 .p1{
+    color: red;
+}
+#div2 > .p2 {
+    color: blue;
+}
+#div3 + .p3 {
+    color: green;
+}
+#div4 ~ .p4 {
+    color: blue;
+}
+input[type="text"] {
+    color: red;
+    background-color: yellow;
+}
