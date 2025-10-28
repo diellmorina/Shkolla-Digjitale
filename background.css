@@ -1,0 +1,27 @@
+body {
+    background-image: url(pex.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll
+    ;
+}
+#p1 {
+    background: lightblue url(pex.jpeg) no-repeat right top scroll;
+    height: 100px;
+}
+
+#p2 {
+    width: 1200px;
+    height: 300px;
+    border: 5px solid black;
+    background-attachment: fixed;
+    background-image: url("shd.jpeg");
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+#p3 {
+    width: 300px;
+    height: 300px;
+    border: 5px solid black;
+    background-attachment: fixed;
+}
