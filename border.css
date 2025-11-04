@@ -1,0 +1,50 @@
+#p1{
+    border: 5px dotted black;
+}
+
+#p2{
+    border: thick dashed rgb(99, 4, 4);
+}
+
+#p3{
+    border-style: solid;
+    border-width: 20px 60px;
+}
+
+#p4{
+    border-style: dotted solid double dashed;
+    border-color:  blue red green yellow;
+}
+
+#p6{
+    border: 8px solid yellow;
+}
+
+#p7{
+    border: double;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+#p8{
+    border: 5px double red;
+    height: 500px;
+    width: 500px;
+}
+
+#p9{
+    border: 20px ridge red;
+}
+
+#p10{
+    border: 20px groove red;
+}
+
+#p11{
+    border: 20px inset red;
+}
+
+#p12{
+    border: 20px outset red;
+}
