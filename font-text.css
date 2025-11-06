@@ -1,0 +1,56 @@
+#p{
+    font-family: 'Times New Roman', Times, serif
+}
+
+#p1{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic
+}
+
+#p2{
+  font-variant: small-caps;  
+}
+
+#p3{
+    font-weight: bolder;
+}
+
+#p4{
+   font-size: 10vw; 
+}
+
+#p5{
+    font: bold italic small-caps 10vw georgian;
+}
+
+#p6{
+    color: red;
+}
+
+#p7{
+    text-align: right;
+    height: 250px;
+    width: 300px;
+}
+
+#p8{
+    color: aqua;
+    direction: ltr;
+}
+#p9{
+    text-indent: 100px;
+}
+#p10{
+    letter-spacing: 5px;
+    word-spacing: 15px;
+}
+#p11{
+    text-decoration: line-through;
+}
+#p12{
+    text-transform: capitalize;
+}
+#p13{
+    font-size: 70px;
+    text-shadow: 5px 4px 7px red;
+}
