@@ -1,0 +1,47 @@
+#ul1 {
+    list-style-type: square;
+    list-style-position: outside;
+    width: 200px;
+}
+
+#ul2 {
+    list-style-position: inside;
+    width: 200px;
+    text-align: right;
+}
+
+#ul3{
+    list-style-image: url(butterfly.gif);
+    list-style-position: inside;
+}
+#ol1{
+    list-style-type:none ;
+}
+
+#ol2 {
+    list-style-type:upper-roman ;
+    margin-left: 100px;
+}
+#ol3{
+    list-style: inside upper-alpha;
+    width: 300px;
+}
+
+#ul4 {
+    background: #aa3355;
+    padding: 10px;
+}
+#ul4 li {
+    background: blue;
+    color: white;
+    margin: 10px;
+}
+#ol4 {
+   background: #aa3355;
+    padding: 30px; 
+}
+#ol4 li:hover {
+    background: #5533ff;
+    color: red;
+    font-size: 20px;
+}
