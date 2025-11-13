@@ -1,0 +1,22 @@
+#p1::before{
+    content: "Instruktor -";
+    color: red;
+}
+#p2::after{
+    content: "- Prizren";
+    color: blue;
+    font-size: 30px;
+}
+#p3::first-line {
+    color:red;
+    font-variant: small-caps;
+}
+
+#p3::first-letter {
+    color:green;
+    font-size: 30px;
+}
+p::selection {
+    color: red;
+    background: green;
+}
