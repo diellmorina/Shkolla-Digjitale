@@ -1,0 +1,53 @@
+#table1,
+.table1 {
+    border: 1px solid hsl(0, 0%, 0%);
+    border-collapse: separate;
+    border-spacing: 30px 10px;
+}
+
+
+.table1  {
+    padding: 20px;
+}
+
+
+#table1 {
+    background-color: red;
+    width: 400px;
+    height: 40px;
+}
+
+
+#table2,
+.table2 {
+    margin-top: 50px;
+    border: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+#tabe3,
+.table3 {
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    width: 400px;
+    height: 40px;
+    border-collapse: collapse;
+}
+
+.table2:hover {
+    background-color: red;
+    text-align: right;
+    font-size: 39px;
+    color: blueviolet;
+}
+.table3:hover {
+    background-color: red;
+    text-align: right;
+}
+tr:nth-child(even) {
+    background-color: #ffacca;
+    color: blue;
+}
