@@ -1,0 +1,60 @@
+#p1{
+cursor: auto;
+}
+#p2{
+cursor: crosshair;
+}
+#p3{
+cursor:default ;
+}
+#p4{
+cursor:pointer ;
+}
+#p5{
+cursor:move ;
+}
+#p6{
+cursor: text;
+}
+#p7{
+cursor: wait;
+}
+#p8{
+cursor: help;
+}
+#p9{
+cursor: grab;
+}
+#p10{
+cursor: grabbing;
+}
+#p11{
+cursor: none;
+}
+#p12{
+cursor: copy;
+}
+#p13{
+cursor:cell ;
+}
+#p14{
+cursor:zoom-in ;
+}
+#p15{
+cursor: zoom-out;
+}
+#p16{
+cursor: row-resize;
+}
+#p17{
+cursor: n-resize;
+}
+#p18{
+cursor: e-resize;
+}
+#p19{
+cursor:w-resize ;
+}
+#p20{
+cursor: s-resize;
+}
