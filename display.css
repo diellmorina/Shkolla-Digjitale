@@ -1,0 +1,19 @@
+h1{
+    display: none;
+}
+
+button {
+    display: none;
+}
+
+a {
+    display: block;
+}
+
+p {
+    display: inline;
+}
+
+h3:hover {
+    display: none;
+}
