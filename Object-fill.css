@@ -1,0 +1,27 @@
+#img1{
+width: 700px;
+height: 700px;
+object-fit: fill;
+}
+
+#img2{
+width: 700px;
+height: 700px;
+object-fit: contain;
+}
+
+#img3{
+object-fit: cover;
+}
+
+#img4{
+width: 700px;
+height: 700px;
+object-fit:contain ;
+}
+
+#img5{
+width: 700px;
+height: 700px;
+object-fit: fill ;
+}
