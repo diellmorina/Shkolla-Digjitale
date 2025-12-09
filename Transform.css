@@ -1,0 +1,71 @@
+#div1{
+    width: 100px;
+    height: 100px;
+    background: #900;
+    color: white;
+    transition: transform 2s;
+}
+#div1:hover{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    transform: translate(100px, 400px);
+}
+#div2{
+     width: 100px;
+    height: 100px;
+    background: #990;
+    transition: width 2s, height 2s,transform 2s;
+    position: absolute;
+    color: white;
+    top: 100px;
+    left: 250px;
+    
+}
+#div2:hover{
+    width: 300px;
+    height: 300px;
+    background: blue;
+    transform:rotate(360deg);
+}
+#div3{
+width: 100px;
+height: 100px;
+background: #900;
+color: white;
+transition: 2S ,width 2s, height 2s, transform 2s;
+}
+#div3:hover{
+width: 100px;
+height: 100px;
+background: #009;
+margin-left: 200px;
+transform: scale(0.5, 0.1);
+}
+#div4{
+width: 100px;
+height: 100px;
+background: #990;
+transition: width 2s, height 2s, transform 2s;
+color: white;
+}
+#div4:hover{
+width: 300px;
+height: 300px;
+background: #009;
+transform: skewX(360deg);
+}
+#div5{
+width: 100px;
+height: 100px;
+background: #990;
+transition: width 2s, height 2s, transform 2s;
+color: white;
+}
+
+#div5:hover{
+width: 100px;
+height: 100px;
+background: #009;
+transform: rotateX(360deg);
+}

@@ -1,0 +1,72 @@
+div{
+    position: absolute;
+    top: 100px;
+    left: -50px;
+    font: 70px;
+    display: inline;
+}
+.div1{
+    position: relative;
+    animation-name: div1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 20px;
+    color: black;
+}
+
+@keyframes div1 {
+    0%{left: 100%;}
+    100%{left: -30%;}
+}
+.div2{
+    position: relative;
+    animation-name: div1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 20px;
+    color: black;
+}
+
+@keyframes div1 {
+    0%{left: 100%;}
+    100%{left: -30%;}
+}
+.div3{
+    position: relative;
+    animation-name: div1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 20px;
+    color: black;
+}
+
+@keyframes div1 {
+    0%{left: 100%;}
+    100%{left: -30%;}
+}
+.div4{
+    position: relative;
+    animation-name: div1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 20px;
+    color: black;
+}
+
+@keyframes div1 {
+    0%{left: 100%;}
+    100%{left: -30%;}
+}
+.div5{
+    position: relative;
+    animation-name: div1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    margin-top: 20px;
+    color: black;
+}
+
+@keyframes div1 {
+    0%{left: 100%;}
+    100%{left: -30%;}
+}
