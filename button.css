@@ -1,0 +1,66 @@
+#but1 {
+color: white ;
+background-color: red;
+width: 100PX ;
+height: 40px;
+font-size: 20px;
+}
+
+#but2 {
+background-color: blue;
+color: white;
+padding: 60px;
+margin: 20;
+font-size: 20px;
+}
+
+#but3 {
+background-color: red;
+color: white;
+font-size: 20px;
+border-radius: 100px;
+}
+
+#but3:hover{
+background-color: white;
+font-size: 20px;
+color: black;
+}
+
+#but4 {
+background-color: red;
+counter-reset: white;
+font-size: 20px;
+border-radius: 50px;
+}
+#but4:hover{
+box-shadow: 10px 10px 1px rgba(9, 9, 9,0.5)
+}
+
+#but5 {
+background-color: red
+color:white;
+font-size:20px;
+}
+#but5:active{
+position: relative;
+top: -20px;
+left: -10px;
+box-shadow: 0px 10px 0px rgba(9, 9, 9, 0.5)
+}
+
+#but6 {
+opacity: 0.5;
+cursor: no-drop;
+}
+
+#but7 {
+background-color: green ;
+color: white;
+font-size: 20px;
+}
+#but7:active{
+position: relative;
+top: -9px;
+box-shadow: 10px 10px 10px rgba(9, 9, 9, 0.5);
+}
